@@ -1,8 +1,6 @@
 # PytorchLecture
 KISTI 과학데이터스쿨에서 진행하는 Pytorch 활용 실습 강의
 
-ISTI 과학데이터스쿨 파이토치 활용 실습 자료
-
 Pytorch 강의 내용에 맞춘 시간별 실습 자료
 
 1. Google CoLab에서 Pytorch 사용하기 - LearnPytorch1.ipynb, dataset 하위 dog.jpg 및  imagenet_classes.txt 자료
